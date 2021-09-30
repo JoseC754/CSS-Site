@@ -1,0 +1,17 @@
+body {
+    background-color:cadetblue
+}
+h1 {color: #d86161;font-family:cursive;text-align: center}
+a:link{
+    color: darkgoldenrod;
+}
+a:visited {
+    color:brown;
+}
+a:hover {
+    color: firebrick
+}
+a{
+    text-decoration: inherit;
+    font-size: 20pt;
+}
