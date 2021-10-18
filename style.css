@@ -34,6 +34,7 @@ div.right {
     width: 70%;
     height: 500px;
     background-color: forestgreen;
+    font-family: 'Stick No Bills', sans-serif;
 }
 div.footer {
     display: inline-block;
